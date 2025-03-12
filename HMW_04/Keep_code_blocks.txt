@@ -1,0 +1,19 @@
+
+
+
+# Check for "Near Singularity" instead of "Singularity"
+        if np.abs(np.linalg.det(hessian)) < 1e-10 : 
+            weight = weight - alpha * gradient
+            pseudo_print(f"gradient instead of Newton, at run {runs + 1}")
+        else:
+            try:
+                u = np.linalg.solve(hessian, gradient)
+                weight = weight - u
+            except np.linalg.LinAlgError:
+                print("Solving the system failed.")
+                break
+            #u = np.linalg.solve(hessian, gradient)
+            #weight = weight - u # More stable than getting the inverse of Hessian
+            #weight = weight - np.linalg.inv(hessian) @ gradient
+            #hessian_inv = matrix_inverse_by_lu(hessian)
+            #weight = weight - np.dot( hessian_inv, gradient)
