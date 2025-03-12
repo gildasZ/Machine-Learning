@@ -1,0 +1,279 @@
+Starting...
+
+Starting...
+
+2023 ML HMW06 
+    Spectral Clustering with Normalized Cut
+    Part 1: Clustering into 2 clusters & Visualization.
+    Part 2: Try more clusters (e.g. 3 or 4 ...) & Visualization.
+    Part 3: Try different initializations (e.g. k-means++) & Visualization.
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 5 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 381 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Total Execution Time: 389 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 5 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 349 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Total Execution Time: 358 seconds 
+
+2023 ML HMW06 
+    Spectral Clustering with Normalized Cut
+    Part 1: Clustering into 2 clusters & Visualization.
+    Part 2: Try more clusters (e.g. 3 or 4 ...) & Visualization.
+    Part 3: Try different initializations (e.g. k-means++) & Visualization.
+
+Mode 0
+	Clusters = 2
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 6 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 4 seconds 
+
+			Total Execution Time: 11 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 3 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Total Execution Time: 6 seconds 
+
+	Clusters = 3
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 5 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 7 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 4 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 7 seconds 
+
+	Clusters = 4
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 5 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 8 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 4 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 7 seconds 
+
+
+Mode 1
+	Clusters = 2
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 5 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 8 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 4 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 6 seconds 
+
+	Clusters = 3
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 4 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Total Execution Time: 8 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 3 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 6 seconds 
+
+	Clusters = 4
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 3 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 2 seconds 
+
+			Total Execution Time: 7 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Similarity Graph Matrix Execution Time: 4 seconds
+			Normalized Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Normalized Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Ratio Cut Execution Time: 0 seconds
+
+			Show Eigen values for spectral clustering Ratio Cut 
+
+
+			Eigenspace Clusters Execution Time: 1 seconds 
+
+			Total Execution Time: 7 seconds 
+
+
+
+End

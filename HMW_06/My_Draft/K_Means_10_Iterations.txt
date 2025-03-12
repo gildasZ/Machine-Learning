@@ -1,0 +1,106 @@
+Starting...
+
+Starting...
+
+2023 ML HMW06 
+    Kernel k-means
+    Part 1: Clustering into 2 clusters & Visualization.
+    Part 2: Try more clusters (e.g. 3 or 4 ...) & Visualization.
+    Part 3: Try different initializations (e.g. k-means++) & Visualization.
+
+Mode 0
+	Clusters = 2
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 4 seconds
+		Image 1 
+			Starting Kernel K-Means with K = 2 ...
+			Kernel K-Means Execution Time: 24 seconds
+			Total Execution Time for Image: 28 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 5 seconds
+		Image 2 
+			Starting Kernel K-Means with K = 2 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 29 seconds 
+
+	Clusters = 3
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 1 
+			Starting Kernel K-Means with K = 3 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 28 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 4 seconds
+		Image 2 
+			Starting Kernel K-Means with K = 3 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 29 seconds 
+
+	Clusters = 4
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 1 
+			Starting Kernel K-Means with K = 4 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 28 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 2 
+			Starting Kernel K-Means with K = 4 ...
+			Kernel K-Means Execution Time: 24 seconds
+			Total Execution Time for Image: 26 seconds 
+
+
+Mode 1
+	Clusters = 2
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 4 seconds
+		Image 1 
+			Starting Kernel K-Means with K = 2 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 28 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 4 seconds
+		Image 2 
+			Starting Kernel K-Means with K = 2 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 29 seconds 
+
+	Clusters = 3
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 1 
+			Starting Kernel K-Means with K = 3 ...
+			Kernel K-Means Execution Time: 24 seconds
+			Total Execution Time for Image: 27 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 2 
+			Starting Kernel K-Means with K = 3 ...
+			Kernel K-Means Execution Time: 25 seconds
+			Total Execution Time for Image: 27 seconds 
+
+	Clusters = 4
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 1 
+			Starting Kernel K-Means with K = 4 ...
+			Kernel K-Means Execution Time: 24 seconds
+			Total Execution Time for Image: 27 seconds 
+
+			Read Image Execution Time: 0 seconds
+			Compute Kernel Matrix Execution Time: 3 seconds
+		Image 2 
+			Starting Kernel K-Means with K = 4 ...
+			Kernel K-Means Execution Time: 24 seconds
+			Total Execution Time for Image: 27 seconds 
+
+
+
+End
