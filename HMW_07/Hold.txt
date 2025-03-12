@@ -1,0 +1,15 @@
+
+
+
+	Part1: 25 eigenfaces & fisherfaces + reconstruction of 10 random images
+	Part 2 : Use PCA and LDA to do face recognition, and compute the performance
+	Part 3: Use kernel PCA and kernel LDA to do face recognition, and compute the performance, then compare different kernel and with PCA/LDA
+
+
+	Part 1: Explain implementation of t-SNE and show modifications to get symmetric SNE
+	Part 2: Visualize the embedding of both t-SNE and symmetric SNE
+	Part 3: Visualize the distribution of pairwise similarities in both high-dimensional space and low-dimensional space, based on both t-SNE and symmetric SNE.
+	Part 4: Try to play with different perplexity values.
+
+
+LDA Performance VS Top PCA Eigenvectors

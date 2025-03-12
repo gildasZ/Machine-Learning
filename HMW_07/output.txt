@@ -1,0 +1,203 @@
+
+Starting...
+
+
+K= 1, PCA Accuracy: 83.33 % 
+K= 2, PCA Accuracy: 83.33 % 
+K= 3, PCA Accuracy: 83.33 % 
+K= 4, PCA Accuracy: 86.67 % 
+K= 5, PCA Accuracy: 90.00 % 
+K= 6, PCA Accuracy: 86.67 % 
+K= 7, PCA Accuracy: 90.00 % 
+K= 8, PCA Accuracy: 83.33 % 
+K= 9, PCA Accuracy: 80.00 % 
+K= 10, PCA Accuracy: 80.00 % 
+K= 11, PCA Accuracy: 80.00 % 
+K= 12, PCA Accuracy: 80.00 % 
+
+Average: 83.89 % 
+
+PCA executed in: 11 seconds
+
+Ratio (S_W^-1).S_B computed in 0 seconds
+eigenvalue decomposition computed in 0 seconds 
+
+
+K= 1, LDA Accuracy: 100.00 % 
+K= 2, LDA Accuracy: 100.00 % 
+K= 3, LDA Accuracy: 100.00 % 
+K= 4, LDA Accuracy: 100.00 % 
+K= 5, LDA Accuracy: 100.00 % 
+K= 6, LDA Accuracy: 100.00 % 
+K= 7, LDA Accuracy: 100.00 % 
+K= 8, LDA Accuracy: 100.00 % 
+K= 9, LDA Accuracy: 100.00 % 
+K= 10, LDA Accuracy: 100.00 % 
+K= 11, LDA Accuracy: 100.00 % 
+K= 12, LDA Accuracy: 100.00 % 
+
+Average: 100.00 % 
+
+LDA executed in: 7 seconds
+K= 1, linear_PCA Accuracy: 80.00 % 
+K= 2, linear_PCA Accuracy: 80.00 % 
+K= 3, linear_PCA Accuracy: 83.33 % 
+K= 4, linear_PCA Accuracy: 83.33 % 
+K= 5, linear_PCA Accuracy: 83.33 % 
+K= 6, linear_PCA Accuracy: 83.33 % 
+K= 7, linear_PCA Accuracy: 80.00 % 
+K= 8, linear_PCA Accuracy: 80.00 % 
+K= 9, linear_PCA Accuracy: 83.33 % 
+K= 10, linear_PCA Accuracy: 83.33 % 
+K= 11, linear_PCA Accuracy: 83.33 % 
+K= 12, linear_PCA Accuracy: 83.33 % 
+
+Average: 82.22 % 
+
+Linear kernel PCA executed in: 4 seconds
+
+K= 1, polynomial_PCA Accuracy: 60.00 % 
+K= 2, polynomial_PCA Accuracy: 63.33 % 
+K= 3, polynomial_PCA Accuracy: 63.33 % 
+K= 4, polynomial_PCA Accuracy: 63.33 % 
+K= 5, polynomial_PCA Accuracy: 60.00 % 
+K= 6, polynomial_PCA Accuracy: 53.33 % 
+K= 7, polynomial_PCA Accuracy: 56.67 % 
+K= 8, polynomial_PCA Accuracy: 53.33 % 
+K= 9, polynomial_PCA Accuracy: 53.33 % 
+K= 10, polynomial_PCA Accuracy: 53.33 % 
+K= 11, polynomial_PCA Accuracy: 60.00 % 
+K= 12, polynomial_PCA Accuracy: 56.67 % 
+
+Average: 58.06 % 
+
+Polynomial kernel PCA executed in: 3 seconds
+
+K= 1, rbf_PCA Accuracy: 16.67 % 
+K= 2, rbf_PCA Accuracy: 16.67 % 
+K= 3, rbf_PCA Accuracy: 13.33 % 
+K= 4, rbf_PCA Accuracy: 10.00 % 
+K= 5, rbf_PCA Accuracy: 13.33 % 
+K= 6, rbf_PCA Accuracy: 13.33 % 
+K= 7, rbf_PCA Accuracy: 10.00 % 
+K= 8, rbf_PCA Accuracy: 10.00 % 
+K= 9, rbf_PCA Accuracy: 6.67 % 
+K= 10, rbf_PCA Accuracy: 6.67 % 
+K= 11, rbf_PCA Accuracy: 6.67 % 
+K= 12, rbf_PCA Accuracy: 6.67 % 
+
+Average: 10.83 % 
+
+RBF kernel PCA executed in: 4 seconds
+
+
+K= 1, linear LDA Accuracy: 86.67 % 
+K= 2, linear LDA Accuracy: 86.67 % 
+K= 3, linear LDA Accuracy: 86.67 % 
+K= 4, linear LDA Accuracy: 86.67 % 
+K= 5, linear LDA Accuracy: 86.67 % 
+K= 6, linear LDA Accuracy: 86.67 % 
+K= 7, linear LDA Accuracy: 86.67 % 
+K= 8, linear LDA Accuracy: 86.67 % 
+K= 9, linear LDA Accuracy: 86.67 % 
+K= 10, linear LDA Accuracy: 86.67 % 
+K= 11, linear LDA Accuracy: 86.67 % 
+K= 12, linear LDA Accuracy: 86.67 % 
+
+Average: 86.67 % 
+
+Linear kernel LDA executed in: 4 seconds
+
+
+K= 1, polynomial LDA Accuracy: 86.67 % 
+K= 2, polynomial LDA Accuracy: 90.00 % 
+K= 3, polynomial LDA Accuracy: 86.67 % 
+K= 4, polynomial LDA Accuracy: 86.67 % 
+K= 5, polynomial LDA Accuracy: 90.00 % 
+K= 6, polynomial LDA Accuracy: 90.00 % 
+K= 7, polynomial LDA Accuracy: 93.33 % 
+K= 8, polynomial LDA Accuracy: 90.00 % 
+K= 9, polynomial LDA Accuracy: 90.00 % 
+K= 10, polynomial LDA Accuracy: 93.33 % 
+K= 11, polynomial LDA Accuracy: 93.33 % 
+K= 12, polynomial LDA Accuracy: 96.67 % 
+
+Average: 90.56 % 
+
+Polynomial kernel LDA executed in: 4 seconds
+
+
+K= 1, rbf LDA Accuracy: 66.67 % 
+K= 2, rbf LDA Accuracy: 63.33 % 
+K= 3, rbf LDA Accuracy: 63.33 % 
+K= 4, rbf LDA Accuracy: 63.33 % 
+K= 5, rbf LDA Accuracy: 60.00 % 
+K= 6, rbf LDA Accuracy: 60.00 % 
+K= 7, rbf LDA Accuracy: 60.00 % 
+K= 8, rbf LDA Accuracy: 56.67 % 
+K= 9, rbf LDA Accuracy: 56.67 % 
+K= 10, rbf LDA Accuracy: 53.33 % 
+K= 11, rbf LDA Accuracy: 50.00 % 
+K= 12, rbf LDA Accuracy: 53.33 % 
+
+Average: 58.89 % 
+
+RBF kernel LDA executed in: 3 seconds
+
+
+K= 1, linear LDA Accuracy: 86.67 % 
+K= 2, linear LDA Accuracy: 86.67 % 
+K= 3, linear LDA Accuracy: 86.67 % 
+K= 4, linear LDA Accuracy: 86.67 % 
+K= 5, linear LDA Accuracy: 86.67 % 
+K= 6, linear LDA Accuracy: 86.67 % 
+K= 7, linear LDA Accuracy: 86.67 % 
+K= 8, linear LDA Accuracy: 86.67 % 
+K= 9, linear LDA Accuracy: 86.67 % 
+K= 10, linear LDA Accuracy: 86.67 % 
+K= 11, linear LDA Accuracy: 86.67 % 
+K= 12, linear LDA Accuracy: 86.67 % 
+
+Average: 86.67 % 
+
+Linear kernel LDA executed in: 2 seconds
+
+
+K= 1, polynomial LDA Accuracy: 86.67 % 
+K= 2, polynomial LDA Accuracy: 90.00 % 
+K= 3, polynomial LDA Accuracy: 86.67 % 
+K= 4, polynomial LDA Accuracy: 86.67 % 
+K= 5, polynomial LDA Accuracy: 90.00 % 
+K= 6, polynomial LDA Accuracy: 90.00 % 
+K= 7, polynomial LDA Accuracy: 93.33 % 
+K= 8, polynomial LDA Accuracy: 90.00 % 
+K= 9, polynomial LDA Accuracy: 90.00 % 
+K= 10, polynomial LDA Accuracy: 93.33 % 
+K= 11, polynomial LDA Accuracy: 93.33 % 
+K= 12, polynomial LDA Accuracy: 96.67 % 
+
+Average: 90.56 % 
+
+Polynomial kernel LDA executed in: 2 seconds
+
+
+K= 1, rbf LDA Accuracy: 66.67 % 
+K= 2, rbf LDA Accuracy: 63.33 % 
+K= 3, rbf LDA Accuracy: 63.33 % 
+K= 4, rbf LDA Accuracy: 63.33 % 
+K= 5, rbf LDA Accuracy: 60.00 % 
+K= 6, rbf LDA Accuracy: 60.00 % 
+K= 7, rbf LDA Accuracy: 60.00 % 
+K= 8, rbf LDA Accuracy: 56.67 % 
+K= 9, rbf LDA Accuracy: 56.67 % 
+K= 10, rbf LDA Accuracy: 53.33 % 
+K= 11, rbf LDA Accuracy: 50.00 % 
+K= 12, rbf LDA Accuracy: 53.33 % 
+
+Average: 58.89 % 
+
+RBF kernel LDA executed in: 2 seconds
+
+
+
+End
