@@ -1,0 +1,19 @@
+
+
+
+in code block 0005, function for the rational quadratic kernel, we used 
+square_distance = scipy.spatial.distance .cdist(X1, X2, 'sqeuclidean') 
+ to compute〖(x_i- x_j)〗^2
+
+
+
+I trained the dataset with the new kernel with parameter gamma equal to the optimized gamma of the RBF kernel, and got a performace that is less of that of the other kernels (95.32 %).
+
+I optimized the parameter gamma of the new kernel through cross-validation and retrained the dataset with the new kernel, and obtained an improved performance, a slight improvement (95.64 % now vs 95.32 % before).
+But the optimal kernel still performs less than all the other kernels.
+
+
+
+
+
+

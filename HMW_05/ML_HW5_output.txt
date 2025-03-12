@@ -1,0 +1,88 @@
+Starting...
+
+I. Gaussian Process 
+
+   Task 1: 
+	Figure_Task_1.jpg 
+
+
+   Task 2: 
+	Figure_Task_2.jpg 
+
+II. SVM on MNIST dataset 
+
+   Task 1: 
+
+	Using hard-SVM (cost c= 10) to compare 3 kernel functions in default mode: 
+
+	0 -- linear: u'*v 
+	1 -- polynomial: (gamma*u'*v + coef0)^degree 
+	2 -- radial basis function: exp(-gamma*|u-v|^2) 
+	(-d degree: default = 3), (-r coef0: default 0) (-g default = 1/num_features) 
+
+	linear kernel's accuracy: 95.00 % 
+	polynomial kernel's accuracy: 79.72 % 
+	radial basis function kernel's accuracy: 96.32 % 
+
+	Ranking all the kernels in Task 1: 
+		Rank 1: radial basis function: Accuracy - 96.32 %
+		Rank 2: linear: Accuracy - 95.00 %
+		Rank 3: polynomial: Accuracy - 79.72 %
+
+   Task 2: 
+
+	Using Grid Search on soft-SVM to find best values of: 
+	cost 'c', gamma 'g', degree 'd' and coefficient 'r' 
+
+	costs: [0.001, 0.01, 0.1, 1.0, 10] 
+	gammas: [0.001, 0.01, 0.1, 1.0] 
+	degrees: [2, 3, 4] 
+	coefficients: [0.0, 1.0, 2.0] 
+
+	For linear kernel, grid search optimal accuracy = 96.88 %, for: 
+		optimal cost = 0.01 
+	   and testing data optimal accuracy = 95.96 % 
+
+	For radial basis function kernel, grid search optimal accuracy = 98.22 %, for: 
+		optimal cost = 10 
+		optimal gamma = 0.01 
+	   and testing data optimal accuracy = 98.20 % 
+
+	For polynomial kernel, grid search optimal accuracy = 98.16 %, for: 
+		optimal cost = 0.01 
+		optimal gamma = 1.0 
+		optimal degree = 2 
+		optimal coefficient = 2.0 
+	   and testing data optimal accuracy = 97.72 % 
+
+	Ranking all the kernels after grid search in Task 2: 
+		Rank 1: radial basis function: Accuracy - 98.20 %
+		Rank 2: polynomial: Accuracy - 97.72 %
+		Rank 3: linear: Accuracy - 95.96 %
+
+   Task 3: 
+
+	Using 'linear kernel + RBF kernel' to form a new kernel: 
+
+	'linear + RBF' kernel's accuracy: 95.32 %, 
+	with gamma = 0.01 
+
+	Ranking the new kernel along with the kernels of Task 2: 
+		Rank 1: radial basis function: Accuracy - 98.20 % 
+		Rank 2: polynomial: Accuracy - 97.72 % 
+		Rank 3: linear: Accuracy - 95.96 % 
+		Rank 4: linear + RBF: Accuracy - 95.32 % 
+
+	Optimizing the new kernel's parameter gamma: 
+
+	Using Grid Search, gamma optimal = 0.01, 
+	and testing data optimal accuracy = 95.32 % 
+
+	Ranking the optimized new kernel along with the kernels of Task 2: 
+		Rank 1: radial basis function: Accuracy - 98.20 % 
+		Rank 2: polynomial: Accuracy - 97.72 % 
+		Rank 3: linear: Accuracy - 95.96 % 
+		Rank 4: linear + RBF: Accuracy - 95.32 % 
+
+
+End
